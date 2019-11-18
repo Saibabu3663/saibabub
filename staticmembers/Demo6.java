@@ -1,0 +1,18 @@
+package com.staticmembers;
+
+public class Demo6 {
+	static
+	{
+		System.out.println("from Sib-2");
+	
+	}
+
+	public static void main(String[] args) {
+		System.out.println("from main");
+	}
+	static
+	{
+		System.out.println("from Sib-1");
+	}
+
+}
