@@ -20,7 +20,7 @@ public class Emp {
 		return id+" "+name+" "+salary;
 	}
 	
-	}
 	
-
+	
 }
+
